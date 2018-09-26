@@ -1,0 +1,39 @@
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 10:55:20 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to pid.uwsgi
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /djapp/wxapp
+chdir(): No such file or directory [core/uwsgi.c line 2631]
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 10:55:29 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to pid.uwsgi
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /djapp/wxapp
+chdir(): No such file or directory [core/uwsgi.c line 2631]
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 10:57:48 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to pid.uwsgi
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /djapp/wxapp/app
+chdir(): No such file or directory [core/uwsgi.c line 2631]

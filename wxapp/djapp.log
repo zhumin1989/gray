@@ -1,0 +1,548 @@
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:12:26 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080      # can also be a file fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:35303 (port auto-assigned) fd 3
+Python version: 3.6.6 (default, Sep 12 2018, 18:26:19)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+!!! Python Home is not a directory: /path/to/virtual/env    # optional path to a virtualenv !!!
+Set PythonHome to /path/to/virtual/env    # optional path to a virtualenv
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ModuleNotFoundError: No module named 'encodings'
+
+Current thread 0x00007fea75cfa740 (most recent call first):
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:12:30 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080      # can also be a file fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:44073 (port auto-assigned) fd 3
+Python version: 3.6.6 (default, Sep 12 2018, 18:26:19)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+!!! Python Home is not a directory: /path/to/virtual/env    # optional path to a virtualenv !!!
+Set PythonHome to /path/to/virtual/env    # optional path to a virtualenv
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ModuleNotFoundError: No module named 'encodings'
+
+Current thread 0x00007f63a44dd740 (most recent call first):
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:13:58 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080      # can also be a file fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:36981 (port auto-assigned) fd 3
+Python version: 3.6.6 (default, Sep 12 2018, 18:26:19)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+!!! Python Home is not a directory: /home/grayzoo/PycharmProjects/djapp/venv    # optional path to a virtualenv !!!
+Set PythonHome to /home/grayzoo/PycharmProjects/djapp/venv    # optional path to a virtualenv
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ModuleNotFoundError: No module named 'encodings'
+
+Current thread 0x00007f00b3fc7740 (most recent call first):
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:16:38 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8080      # can also be a file fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:46641 (port auto-assigned) fd 3
+Python version: 3.6.6 (default, Sep 12 2018, 18:26:19)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5645f2695c80
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437424 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x5645f2695c80 pid: 31318 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31318)
+spawned uWSGI worker 1 (pid: 31323, cores: 1)
+spawned uWSGI worker 2 (pid: 31324, cores: 1)
+spawned uWSGI worker 3 (pid: 31325, cores: 1)
+spawned uWSGI worker 4 (pid: 31326, cores: 1)
+spawned uWSGI worker 5 (pid: 31327, cores: 1)
+spawned uWSGI http 1 (pid: 31328)
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:21:13 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8080      # can also be a file).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:22:22 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8080      # can also be a file).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:22:47 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8680      # can also be a file fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:41141 (port auto-assigned) fd 3
+Python version: 3.6.6 (default, Sep 12 2018, 18:26:19)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x561862daec80
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218712 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x561862daec80 pid: 31468 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31468)
+spawned uWSGI worker 1 (pid: 31473, cores: 1)
+spawned uWSGI worker 2 (pid: 31474, cores: 1)
+spawned uWSGI http 1 (pid: 31475)
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:23:27 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8680      # can also be a file).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:26:09 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8680      # can also be a file).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:27:10 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8680      # can also be a file).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:27:25 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8688      # can also be a file fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:40503 (port auto-assigned) fd 3
+Python version: 3.6.6 (default, Sep 12 2018, 18:26:19)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x56365e005bb0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218712 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x56365e005bb0 pid: 32458 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32458)
+spawned uWSGI worker 1 (pid: 32463, cores: 1)
+spawned uWSGI worker 2 (pid: 32464, cores: 1)
+spawned uWSGI http 1 (pid: 32465)
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:29:31 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+Python version: 3.6.6 (default, Sep 12 2018, 18:26:19)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x56121afce3a0
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:29:46 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+Python version: 3.6.6 (default, Sep 12 2018, 18:26:19)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55b3c0cc83a0
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:29:56 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+Python version: 3.6.6 (default, Sep 12 2018, 18:26:19)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55f07bb8d3a0
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:31:12 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8688      # can also be a file).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:31:26 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8666      # can also be a file fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:42987 (port auto-assigned) fd 3
+Python version: 3.6.6 (default, Sep 12 2018, 18:26:19)  [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55bb1f05cb80
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 218712 bytes (213 KB) for 2 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55bb1f05cb80 pid: 32577 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32577)
+spawned uWSGI worker 1 (pid: 32581, cores: 1)
+spawned uWSGI worker 2 (pid: 32582, cores: 1)
+spawned uWSGI http 1 (pid: 32583)
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:32:11 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8666      # can also be a file).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:32:26 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+bind(): Permission denied [core/socket.c line 769]
+*** Starting uWSGI 2.0.15-debian (64bit) on [Wed Sep 26 11:33:23 2018] ***
+compiled with version: 7.3.0 on 01 March 2018 10:02:30
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /usr/bin/uwsgi-core
+dropping root privileges as early as possible
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+dropping root privileges after socket binding
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+dropping root privileges after plugin initialization
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:34:27 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+bind(): Permission denied [core/socket.c line 769]
+*** Starting uWSGI 2.0.17.1 (64bit) on [Wed Sep 26 11:35:11 2018] ***
+compiled with version: 7.3.0 on 20 July 2018 07:41:37
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /home/grayzoo/PycharmProjects/djapp/venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+bind(): Permission denied [core/socket.c line 769]
+*** Starting uWSGI 2.0.15-debian (64bit) on [Wed Sep 26 11:35:22 2018] ***
+compiled with version: 7.3.0 on 01 March 2018 10:02:30
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /usr/bin/uwsgi-core
+dropping root privileges as early as possible
+uWSGI running as root, you can use --uid/--gid/--chroot options
+setuid() to 1000
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+dropping root privileges after socket binding
+dropping root privileges after plugin initialization
+The -s/--socket option is missing and stdin is not a socket.
+*** Starting uWSGI 2.0.15-debian (64bit) on [Wed Sep 26 11:35:39 2018] ***
+compiled with version: 7.3.0 on 01 March 2018 10:02:30
+os: Linux-4.15.0-35-generic #38-Ubuntu SMP Wed Sep 12 10:38:24 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/grayzoo/PycharmProjects/djapp/wxapp
+writing pidfile to /tmp/project-master.pid
+detected binary path: /usr/bin/uwsgi-core
+dropping root privileges as early as possible
+uWSGI running as root, you can use --uid/--gid/--chroot options
+setuid() to 1000
+chdir() to /home/grayzoo/PycharmProjects/djapp/wxapp
+your processes number limit is 15449
+your memory page size is 4096 bytes
+detected max file descriptor number: 4096
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+dropping root privileges after socket binding
+dropping root privileges after plugin initialization
+The -s/--socket option is missing and stdin is not a socket.
+Wed Sep 26 12:49:37 2018 - uWSGI worker 5 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Wed Sep 26 12:49:37 2018 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Wed Sep 26 12:49:37 2018 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Wed Sep 26 12:49:37 2018 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Wed Sep 26 12:49:37 2018 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
